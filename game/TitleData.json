@@ -1,0 +1,2468 @@
+{
+  "datalist": [
+    {
+      "id": 1001001,
+      "name": "Young God",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "クロノレガリアを開始した証"
+    },
+    {
+      "id": 1100001,
+      "name": "New God of War",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Play 100 battles"
+    },
+    {
+      "id": 1100002,
+      "name": "Veteran War God",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Play 500 battles"
+    },
+    {
+      "id": 1100003,
+      "name": "War God of turbulent times",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Play 1500 battles"
+    },
+    {
+      "id": 1100004,
+      "name": "Bloody God of War",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Play 3000 battles"
+    },
+    {
+      "id": 1100005,
+      "name": "Legendary God of War",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Play 5000 battles"
+    },
+    {
+      "id": 1101001,
+      "name": "I want to win more...",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Win 50 battles"
+    },
+    {
+      "id": 1101002,
+      "name": "One who continues to pursue victory",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Win 300 battles"
+    },
+    {
+      "id": 1101003,
+      "name": "Quest for Victory",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Win 750 battles"
+    },
+    {
+      "id": 1101004,
+      "name": "Thirst for Victory",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Win 1500 battles"
+    },
+    {
+      "id": 1101005,
+      "name": "Victory is everything",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Win 2500 battles"
+    },
+    {
+      "id": 1110001,
+      "name": "Apprentice Warrior",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Alec 100 times"
+    },
+    {
+      "id": 1110002,
+      "name": "Novice Warrior",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Alec 500 times"
+    },
+    {
+      "id": 1110003,
+      "name": "First class warrior",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Alec 1500 times"
+    },
+    {
+      "id": 1110004,
+      "name": "Veteran warrior",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Alec 3000 times"
+    },
+    {
+      "id": 1110005,
+      "name": "Legendary Warrior",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use Alec 5000 times"
+    },
+    {
+      "id": 1111001,
+      "name": "Apprentice Hunter",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Luca 100 times"
+    },
+    {
+      "id": 1111002,
+      "name": "Novice Hunter",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Luca 500 times"
+    },
+    {
+      "id": 1111003,
+      "name": "First-class Hunter",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Luca 1500 times"
+    },
+    {
+      "id": 1111004,
+      "name": "Veteran hunter",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Luca 3000 times"
+    },
+    {
+      "id": 1111005,
+      "name": "Legendary Hunter",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use Luca 5000 times"
+    },
+    {
+      "id": 1112001,
+      "name": "Apprentice Scholar",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Soken 100 times"
+    },
+    {
+      "id": 1112002,
+      "name": "Novice scholar",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Soken 500 times"
+    },
+    {
+      "id": 1112003,
+      "name": "First-class scholar",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Soken 1500  times"
+    },
+    {
+      "id": 1112004,
+      "name": "Veteran scholar",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Soken 3000 times"
+    },
+    {
+      "id": 1112005,
+      "name": "Legendary scholar",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use Soken 5000 times"
+    },
+    {
+      "id": 1113001,
+      "name": "Apprentice monk",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Lotta 100 times"
+    },
+    {
+      "id": 1113002,
+      "name": "Novice monk",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Lotta 500 times"
+    },
+    {
+      "id": 1113003,
+      "name": "First-class monk",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Lotta 1500 times"
+    },
+    {
+      "id": 1113004,
+      "name": "Veteran monk",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Lotta 3000 times"
+    },
+    {
+      "id": 1113005,
+      "name": "Legendary monk",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use Lotta 5000 times"
+    },
+    {
+      "id": 1114001,
+      "name": "Apprentice Knight",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Bernario 100 times"
+    },
+    {
+      "id": 1114002,
+      "name": "Novice Knight",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Bernario 500 times"
+    },
+    {
+      "id": 1114003,
+      "name": "First class knight",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Bernario 1500 times"
+    },
+    {
+      "id": 1114004,
+      "name": "Veteran knight",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Bernario 3000 times"
+    },
+    {
+      "id": 1114005,
+      "name": "Legendary Knight",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use Bernario 5000 times"
+    },
+    {
+      "id": 1115001,
+      "name": "Apprentice Witch",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Misha 100 times"
+    },
+    {
+      "id": 1115002,
+      "name": "Novice Witch",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Misha 500 times"
+    },
+    {
+      "id": 1115003,
+      "name": "First class witch",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Misha 1500 times"
+    },
+    {
+      "id": 1115004,
+      "name": "Veteran Witch",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Misha 3000 times"
+    },
+    {
+      "id": 1115005,
+      "name": "Legendary Witch",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use Misha 5000 times"
+    },
+    {
+      "id": 1116001,
+      "name": "見習い戦姫",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "ヒルダの使用回数が１００回を超えた証"
+    },
+    {
+      "id": 1116002,
+      "name": "新米戦姫",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "ヒルダの使用回数が５００回を超えた証"
+    },
+    {
+      "id": 1116003,
+      "name": "一流の戦姫",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "ヒルダの使用回数が１，５００回を超えた証"
+    },
+    {
+      "id": 1116004,
+      "name": "歴戦の戦姫",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "ヒルダの使用回数が３，０００回を超えた証"
+    },
+    {
+      "id": 1116005,
+      "name": "伝説の戦姫",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "ヒルダの使用回数が５，０００回を超えた証"
+    },
+    {
+      "id": 1117001,
+      "name": "見習い盗賊",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "ニィの使用回数が１００回を超えた証"
+    },
+    {
+      "id": 1117002,
+      "name": "新米盗賊",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "ニィの使用回数が５００回を超えた証"
+    },
+    {
+      "id": 1117003,
+      "name": "一流の盗賊",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "ニィの使用回数が１，５００回を超えた証"
+    },
+    {
+      "id": 1117004,
+      "name": "歴戦の盗賊",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "ニィの使用回数が３，０００回を超えた証"
+    },
+    {
+      "id": 1117005,
+      "name": "伝説の盗賊",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "ニィの使用回数が５，０００回を超えた証"
+    },
+    {
+      "id": 1118001,
+      "name": "見習い召喚士",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "イデアの使用回数が１００回を超えた証"
+    },
+    {
+      "id": 1118002,
+      "name": "新米召喚士",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "イデアの使用回数が５００回を超えた証"
+    },
+    {
+      "id": 1118003,
+      "name": "一流の召喚士",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "イデアの使用回数が１，５００回を超えた証"
+    },
+    {
+      "id": 1118004,
+      "name": "歴戦の召喚士",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "イデアの使用回数が３，０００回を超えた証"
+    },
+    {
+      "id": 1118005,
+      "name": "伝説の召喚士",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "イデアの使用回数が５，０００回を超えた証"
+    },
+    {
+      "id": 1119001,
+      "name": "Apprentice Priest",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Cecilia 100 times"
+    },
+    {
+      "id": 1119002,
+      "name": "Novice Priest",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Cecilia 500 times"
+    },
+    {
+      "id": 1119003,
+      "name": "First-class priest",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Cecilia 1500 times"
+    },
+    {
+      "id": 1119004,
+      "name": "Veteran Priest",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Cecilia 3000 times"
+    },
+    {
+      "id": 1119005,
+      "name": "Legendary Priest",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use Cecilia 5000 times"
+    },
+    {
+      "id": 1120001,
+      "name": "見習い破壊屋",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "コロネの使用回数が１００回を超えた証"
+    },
+    {
+      "id": 1120002,
+      "name": "新米破壊屋",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "コロネの使用回数が５００回を超えた証"
+    },
+    {
+      "id": 1120003,
+      "name": "一流の破壊屋",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "コロネの使用回数が１，５００回を超えた証"
+    },
+    {
+      "id": 1120004,
+      "name": "歴戦の破壊屋",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "コロネの使用回数が３，０００回を超えた証"
+    },
+    {
+      "id": 1120005,
+      "name": "伝説の破壊屋",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "コロネの使用回数が５，０００回を超えた証"
+    },
+    {
+      "id": 1121001,
+      "name": "Apprentice Assassin",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Despina 100 times"
+    },
+    {
+      "id": 1121002,
+      "name": "Novice Assassin",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Despina 500 times"
+    },
+    {
+      "id": 1121003,
+      "name": "First class assassin",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Despina 1500 times"
+    },
+    {
+      "id": 1121004,
+      "name": "Veteran assassin",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Despina 3000 times"
+    },
+    {
+      "id": 1121005,
+      "name": "Legendary Assassin",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use Despina 5000 times"
+    },
+    {
+      "id": 1150001,
+      "name": "Beginner Weapon User",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Weapon cards 1000 times"
+    },
+    {
+      "id": 1150002,
+      "name": "Novice Weapon User",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Weapon cards 5000 times"
+    },
+    {
+      "id": 1150003,
+      "name": "Weapon craftsman",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Weapon cards 15000 times"
+    },
+    {
+      "id": 1150004,
+      "name": "Weapon Master",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Weapon cards 30000 times"
+    },
+    {
+      "id": 1150005,
+      "name": "Essence of Weapons",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use Weapon cards 50000 times"
+    },
+    {
+      "id": 1151001,
+      "name": "Transformation",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Sacred Treasures 100 times"
+    },
+    {
+      "id": 1151002,
+      "name": "God's Weapon",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Sacred Treasures 500 times"
+    },
+    {
+      "id": 1151003,
+      "name": "Beast Deity",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Sacred Treasures 1500  times"
+    },
+    {
+      "id": 1151004,
+      "name": "Holy",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Sacred Treasures 3000 times"
+    },
+    {
+      "id": 1151005,
+      "name": "Awakened Power of God",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use Sacred Treasures 5000 times"
+    },
+    {
+      "id": 1152001,
+      "name": "Beginner Wizard",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Magic cards 500 times"
+    },
+    {
+      "id": 1152002,
+      "name": "Novice Wizard",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Magic cards 2500 times"
+    },
+    {
+      "id": 1152003,
+      "name": "Magician",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Magic cards 7500 times"
+    },
+    {
+      "id": 1152004,
+      "name": "称号：魔法マスター",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Magic cards 15000  times"
+    },
+    {
+      "id": 1152005,
+      "name": "Essence of Magic",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use Magic cards 25000  times"
+    },
+    {
+      "id": 1153001,
+      "name": "Beginner tool user",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Tool cards 500 times"
+    },
+    {
+      "id": 1153002,
+      "name": "Novice tool user",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Tool cards 2500 times"
+    },
+    {
+      "id": 1153003,
+      "name": "Tool craftsman",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Tool cards 7500 times"
+    },
+    {
+      "id": 1153004,
+      "name": "Tool Master",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Tool cards 15000 times"
+    },
+    {
+      "id": 1153005,
+      "name": "Essence of tools",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use Tool cards 25000 times"
+    },
+    {
+      "id": 1190001,
+      "name": "Friend of the Fairies",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Regalia 100 times"
+    },
+    {
+      "id": 1190002,
+      "name": "Fairies' best friend",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use Regalia 500 times"
+    },
+    {
+      "id": 1190003,
+      "name": "Lord of the fairies",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Regalia 1500  times"
+    },
+    {
+      "id": 1190004,
+      "name": "Guardian of the Fairies",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use Regalia 3000 times"
+    },
+    {
+      "id": 1190005,
+      "name": "Ruler of Time Fairies",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use Regalia 5000 times"
+    },
+    {
+      "id": 1200001,
+      "name": "Unit Sweeper",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Trigger BREAK４００times"
+    },
+    {
+      "id": 1200002,
+      "name": "Unit Buster",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Trigger BREAK２，０００times"
+    },
+    {
+      "id": 1200003,
+      "name": "Unit Killer",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Trigger BREAK６，０００times"
+    },
+    {
+      "id": 1200004,
+      "name": "Unit Breaker",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Trigger BREAK１２，０００times"
+    },
+    {
+      "id": 1200005,
+      "name": "Unit Destroyer",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Trigger BREAK２０，０００times"
+    },
+    {
+      "id": 1201001,
+      "name": "Battle lover",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Deal 50000 Total damage"
+    },
+    {
+      "id": 1201002,
+      "name": "Militant",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Deal 250 ，０００Total damage"
+    },
+    {
+      "id": 1201003,
+      "name": "warrior race",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Deal７ 50000 Total damage"
+    },
+    {
+      "id": 1201004,
+      "name": "Combat professional",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Deal 1500  ，０００Total damage"
+    },
+    {
+      "id": 1201005,
+      "name": "God of Battle",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Deal 2500 ，０００Total damage"
+    },
+    {
+      "id": 1202001,
+      "name": "Battle Beginner",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Trigger direct attacks２００times"
+    },
+    {
+      "id": 1202002,
+      "name": "Battle Intermediate",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Trigger direct attacks 1000 times"
+    },
+    {
+      "id": 1202003,
+      "name": "Child of Battle",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Trigger direct attacks 3000 times"
+    },
+    {
+      "id": 1202004,
+      "name": "Master of Battle",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Trigger direct attacks６，０００times"
+    },
+    {
+      "id": 1202005,
+      "name": "Secret of Battle",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Trigger direct attacks 10 ，０００times"
+    },
+    {
+      "id": 1203001,
+      "name": "Lucky",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Trigger Critical２００times"
+    },
+    {
+      "id": 1203002,
+      "name": "Critical Hit",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Trigger Critical 1000 times"
+    },
+    {
+      "id": 1203003,
+      "name": "Lucky Chronos",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Trigger Critical 3000 times"
+    },
+    {
+      "id": 1203004,
+      "name": "Miracle Punch",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Trigger Critical６，０００times"
+    },
+    {
+      "id": 1203005,
+      "name": "You're lucky",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Trigger Critical 10 ，０００times"
+    },
+    {
+      "id": 1219001,
+      "name": "One who passed through the line of death",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "A friendly unit's HP has fallen below 10."
+    },
+    {
+      "id": 1220001,
+      "name": "Supreme and ultimate blow",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Deal 200 or more damage with one direct attack"
+    },
+    {
+      "id": 1229001,
+      "name": "Flaming art",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use cards that trigger 【Burning】 5 times"
+    },
+    {
+      "id": 1229004,
+      "name": "Be careful of heatstroke",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use cards that trigger 【Burning】 500 times"
+    },
+    {
+      "id": 1229005,
+      "name": "Scorching heat",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use cards that trigger 【Burning】 1000 times"
+    },
+    {
+      "id": 1230001,
+      "name": "Full of potion on the rocks",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use cards that trigger 【Freeze】 5 times"
+    },
+    {
+      "id": 1230004,
+      "name": "Can drive a nail with a card",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use cards that trigger 【Freeze】 500 times"
+    },
+    {
+      "id": 1230005,
+      "name": "Absolute Zero",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use cards that trigger 【Freeze】 1000 times"
+    },
+    {
+      "id": 1231001,
+      "name": "Able to fight even with scratches",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use cards that trigger 【Laceration】 5 times"
+    },
+    {
+      "id": 1231004,
+      "name": "I can fight even if I'm covered in wounds",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use cards that trigger 【Laceration】 500 times"
+    },
+    {
+      "id": 1231005,
+      "name": "I can fight even with all my injuries!",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use cards that trigger 【Laceration】 1000 times"
+    },
+    {
+      "id": 1232001,
+      "name": "Whole-hearted Poison",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use cards that trigger 【Poison】 5 times"
+    },
+    {
+      "id": 1232004,
+      "name": "Full power Venom",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use cards that trigger 【Poison】 500 times"
+    },
+    {
+      "id": 1232005,
+      "name": "The best toxic",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use cards that trigger 【Poison】 1000 times"
+    },
+    {
+      "id": 1233001,
+      "name": "A good night's sleep",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Use cards that trigger 【Sleep】 5 times"
+    },
+    {
+      "id": 1233004,
+      "name": "Hibernation",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Use cards that trigger 【Sleep】 500 times"
+    },
+    {
+      "id": 1233005,
+      "name": "Cold Sleep",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Use cards that trigger 【Sleep】 1000 times"
+    },
+    {
+      "id": 1234001,
+      "name": "Treasure discovered!",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Obtain 10 Treasures"
+    },
+    {
+      "id": 1234004,
+      "name": "Smells like treasure...",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Obtain 500 Treasures"
+    },
+    {
+      "id": 1234005,
+      "name": "Treasure Hunter",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Obtain 1000 Treasures"
+    },
+    {
+      "id": 1234006,
+      "name": "I'm dowsing",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain 5000 Treasures"
+    },
+    {
+      "id": 1234007,
+      "name": "Treasure Mountain",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain 10 ，０００Treasures"
+    },
+    {
+      "id": 1235001,
+      "name": "Healing type",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Recover 1000 Unit HP"
+    },
+    {
+      "id": 1235004,
+      "name": "Healthy in mind and body",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Recover 100 ，０００Unit HP"
+    },
+    {
+      "id": 1235005,
+      "name": "God of Medicine",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Recover９９９，９９９Unit HP"
+    },
+    {
+      "id": 1236001,
+      "name": "Good at sprinting",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Units move 100 Squares"
+    },
+    {
+      "id": 1236003,
+      "name": "Good at long distance running",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Units move 2500 Squares"
+    },
+    {
+      "id": 1236005,
+      "name": "If you think about it, you've come far",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Units move 50000 Squares"
+    },
+    {
+      "id": 1237001,
+      "name": "Trying out various cards",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Consume２００Total MP"
+    },
+    {
+      "id": 1237005,
+      "name": "Magical release",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Consume 5000 Total MP"
+    },
+    {
+      "id": 1237006,
+      "name": "Top-notch card handler",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Consume 10 ，０００Total MP"
+    },
+    {
+      "id": 1237007,
+      "name": "Magic Awakening",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Consume 50000 Total MP"
+    },
+    {
+      "id": 1238001,
+      "name": "Aconitine grade",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Defeat an enemy unit once with [Poison]"
+    },
+    {
+      "id": 1238002,
+      "name": "Tetrodotoxin grade",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Defeat enemy units with [Poison] 10 times"
+    },
+    {
+      "id": 1239003,
+      "name": "A little happiness",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Enchantment effect occurs 25 times"
+    },
+    {
+      "id": 1239005,
+      "name": "Gem Shine",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Enchantment effect occurs 250 times"
+    },
+    {
+      "id": 1239006,
+      "name": "Fever Chronos",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Enchantment effect occurs７７７times"
+    },
+    {
+      "id": 1239007,
+      "name": "Oh, again?",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Enchantment effect occurs 1500  times"
+    },
+    {
+      "id": 1239008,
+      "name": "Jump for Joy",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Enchantment effect occurs７，７７７times"
+    },
+    {
+      "id": 1240001,
+      "name": "Powering up",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Activate 【Exaltation】 10 times"
+    },
+    {
+      "id": 1240004,
+      "name": "Become forever stronger",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Activate 【Exaltation】 1000 times"
+    },
+    {
+      "id": 1240005,
+      "name": "I love fighting",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Activate 【Exaltation】 5000 times"
+    },
+    {
+      "id": 1241001,
+      "name": "Putting everything into one attack",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Activate 【Double Strike】 5 times"
+    },
+    {
+      "id": 1241004,
+      "name": "All you need to do is defeat the enemy Chronos",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Activate 【Double Strike】 500 times"
+    },
+    {
+      "id": 1241005,
+      "name": "Direct attack genius",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Activate 【Double Strike】 1000 times"
+    },
+    {
+      "id": 1242001,
+      "name": "One-sided attack",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Activate 【First attack】 10 times"
+    },
+    {
+      "id": 1242004,
+      "name": "Offense and Defense",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Activate 【First attack】 1000 times"
+    },
+    {
+      "id": 1242005,
+      "name": "First move wins",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Activate 【First attack】 5000 times"
+    },
+    {
+      "id": 1243001,
+      "name": "It's okay because I'm putting up a barrier",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Activate 【Iron Wall】 10 times"
+    },
+    {
+      "id": 1243004,
+      "name": "Big shield gives you great peace of mind",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Activate 【Iron Wall】 1000 times"
+    },
+    {
+      "id": 1243005,
+      "name": "Impregnable Fortress",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Activate 【Iron Wall】 5000 times"
+    },
+    {
+      "id": 1244001,
+      "name": "I'll go ahead",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Activate 【Reconnaissance】 5 times"
+    },
+    {
+      "id": 1244004,
+      "name": "Direct return",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Activate 【Reconnaissance】 500 times"
+    },
+    {
+      "id": 1244005,
+      "name": "Inspection of enemy situation never ends",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Activate 【Reconnaissance】 1000 times"
+    },
+    {
+      "id": 1245001,
+      "name": "Fight tenaciously",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Activate 【Excitement】 10 times"
+    },
+    {
+      "id": 1245004,
+      "name": "Uses any tool as sustenance",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Activate 【Excitement】 1000 times"
+    },
+    {
+      "id": 1245005,
+      "name": "No need for recovery magic",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Activate 【Excitement】 5000 times"
+    },
+    {
+      "id": 1246001,
+      "name": "Likes solid buffs",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Activate 【Grace】 10 times"
+    },
+    {
+      "id": 1246004,
+      "name": "Experience point addict",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Activate 【Grace】 2500 times"
+    },
+    {
+      "id": 1246005,
+      "name": "Level 99999",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Activate 【Grace】７，７７７times"
+    },
+    {
+      "id": 1247001,
+      "name": "Wings of Resurrection",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Activate 【Ressurection】 5 times"
+    },
+    {
+      "id": 1247004,
+      "name": "Like a zombie",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Activate 【Ressurection】 500 times"
+    },
+    {
+      "id": 1247005,
+      "name": "I'll Be Back",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Activate 【Ressurection】 1000 times"
+    },
+    {
+      "id": 1249001,
+      "name": "Paralyzing Blow",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Activate 【Strong attack】 5 times"
+    },
+    {
+      "id": 1249004,
+      "name": "Blow away beyond the castle",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Activate 【Strong attack】 500 times"
+    },
+    {
+      "id": 1249005,
+      "name": "BREAK Genius",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Activate 【Strong attack】 1000 times"
+    },
+    {
+      "id": 1250001,
+      "name": "All-out Attacker",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Activate 【Advance】 5 times"
+    },
+    {
+      "id": 1250004,
+      "name": "Dive into enemy territory!",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Activate 【Advance】 500 times"
+    },
+    {
+      "id": 1250005,
+      "name": "Special attack captain",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Activate 【Advance】 1000 times"
+    },
+    {
+      "id": 1251001,
+      "name": "Trap vendor",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Place traps 25 times"
+    },
+    {
+      "id": 1251003,
+      "name": "Trap demon",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Place traps６６６times"
+    },
+    {
+      "id": 1251004,
+      "name": "Trap specialist",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Place traps 2500 times"
+    },
+    {
+      "id": 1251005,
+      "name": "Trap Living Treasure",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Place traps 10 ，０００times"
+    },
+    {
+      "id": 1252001,
+      "name": "Setting up divine protection",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Place gifts 25 times"
+    },
+    {
+      "id": 1252003,
+      "name": "Windfall",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Place gifts７７７times"
+    },
+    {
+      "id": 1252004,
+      "name": "Receive God's Blessing",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Place gifts 2500 times"
+    },
+    {
+      "id": 1252005,
+      "name": "Gift of trust and tradition",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Place gifts 10 ，０００times"
+    },
+    {
+      "id": 1400001,
+      "name": "Enjoy",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Get a cumulative score of 100 ，０００"
+    },
+    {
+      "id": 1400004,
+      "name": "Millionaire",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Get a cumulative score of 1000 ，０００"
+    },
+    {
+      "id": 1400007,
+      "name": "Daily Chrorega Life",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Get a cumulative score of 5000 ，０００"
+    },
+    {
+      "id": 1400008,
+      "name": "Lucky bearer",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Get a cumulative score of７，７７７，７７７"
+    },
+    {
+      "id": 1400009,
+      "name": "Matchless Warrior",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Get a cumulative score of 10 ，０００，０００"
+    },
+    {
+      "id": 1400010,
+      "name": "Battle-hardened",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Get a cumulative score of２０，０００，０００"
+    },
+    {
+      "id": 1400011,
+      "name": "Score Fanatic",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Get a cumulative score of 50000 ，０００"
+    },
+    {
+      "id": 1400012,
+      "name": "Aim for the Limit",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Get a cumulative score of９９，９９９，９９９"
+    },
+    {
+      "id": 1401002,
+      "name": "Excellent communication skills",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Obtain１ 50 Stars in Story mode"
+    },
+    {
+      "id": 1401003,
+      "name": "living dictionary",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain 30 ０Stars in Story mode"
+    },
+    {
+      "id": 1402003,
+      "name": "称号：シャドウ狩りの専門家",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Obtain 100 Stars in Exploration mode"
+    },
+    {
+      "id": 1414001,
+      "name": "Story Fanatic",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain２０Stars in Story mode Chapter 4"
+    },
+    {
+      "id": 1421001,
+      "name": "Alek Oshi",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Obtain１８Stars in Alec's Chapter"
+    },
+    {
+      "id": 1422001,
+      "name": "Ruka Oshi",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Obtain １８Stars in Luka's Chapter"
+    },
+    {
+      "id": 1423001,
+      "name": "Soken Oshi",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Obtain１８Stars in Soken's Chapter"
+    },
+    {
+      "id": 1424001,
+      "name": "Lotta Oshi",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Obtain １８Stars in Lotta's Chapter"
+    },
+    {
+      "id": 1425001,
+      "name": "Bernario Oshi",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Obtain１８Stars in Bernario's Chapter"
+    },
+    {
+      "id": 1426001,
+      "name": "Misha Oshi",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Obtain１８Stars in Misha's Chapter"
+    },
+    {
+      "id": 1430001,
+      "name": "Cecilia Oshi",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Obtain１８Stars in Cecilia's Chapter"
+    },
+    {
+      "id": 1432001,
+      "name": "Despina Oshi",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Obtain １８Stars in Despina's Chapter"
+    },
+    {
+      "id": 1451001,
+      "name": "『My power has risen!』",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain 5 stars in  『Battle Ruins Where the Ancients Danced』 "
+    },
+    {
+      "id": 1452001,
+      "name": "Title：『Won't let victory slip!』",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain 5 stars in 『The Depths of the Great Forest』 "
+    },
+    {
+      "id": 1453001,
+      "name": "Title：『I'll go with all my might』",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain 5 stars in 『The mountaintop where wisdom is perfected』"
+    },
+    {
+      "id": 1454001,
+      "name": "Title：『I'll help you now!』",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain 5 stars in 『A plaza full of blessings』 "
+    },
+    {
+      "id": 1455001,
+      "name": "Title：『It's approaching!』",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain 5 stars in 『The vein that saves the warrior』"
+    },
+    {
+      "id": 1456001,
+      "name": "Title：『Here!A present!』",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain 5 stars in 『Magical swirling dusk』"
+    },
+    {
+      "id": 1460001,
+      "name": "Title：『Agony and screams...』",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain 5 stars in 『The end of the trapped person』"
+    },
+    {
+      "id": 1462001,
+      "name": "Title：『Receive divine punishment!』",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain 5 stars in 『A place of prayer where chants reverberate』"
+    },
+    {
+      "id": 1506001,
+      "name": "Exploration has begun",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Play exploration mode１times"
+    },
+    {
+      "id": 1506002,
+      "name": "One who unravels the history of the world",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Play exploration mode 10 times"
+    },
+    {
+      "id": 1506003,
+      "name": "Lives in Archaion",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Play exploration mode 50 times"
+    },
+    {
+      "id": 1506004,
+      "name": "Arcaion Around the World",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Play exploration mode 100 times"
+    },
+    {
+      "id": 1506005,
+      "name": "There's nothing I don't know",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Play exploration mode 500 times"
+    },
+    {
+      "id": 1506006,
+      "name": "Archaion Master",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Play exploration mode 1000 times"
+    },
+    {
+      "id": 1700001,
+      "name": "Alec's Memories",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Clear episode 4 of Alec's character story."
+    },
+    {
+      "id": 1710001,
+      "name": "Luka's Memories",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Clear episode 4 of Luka's character story."
+    },
+    {
+      "id": 1720001,
+      "name": "Soken's Memories",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Clear episode 4 of Soken's character story."
+    },
+    {
+      "id": 1730001,
+      "name": "Lotta's Memories",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Clear episode 4 of Lotta's character story."
+    },
+    {
+      "id": 1740001,
+      "name": "Bernario's Memories",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Clear episode 4 of Bernario's character story."
+    },
+    {
+      "id": 1750001,
+      "name": "Misha's Memories",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Clear Misha's character story episode 4"
+    },
+    {
+      "id": 1760001,
+      "name": "ヒルダの記憶",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "キャラストーリーヒルダの章４話をクリアした証"
+    },
+    {
+      "id": 1770001,
+      "name": "ニィの記憶",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "キャラストーリーニィの章４話をクリアした証"
+    },
+    {
+      "id": 1780001,
+      "name": "イデアの記憶",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "キャラストーリーイデアの章４話をクリアした証"
+    },
+    {
+      "id": 1790001,
+      "name": "Cecilia's Memories",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Clear episode 4 of Cecilia's character story."
+    },
+    {
+      "id": 1800001,
+      "name": "コロネの記憶",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "キャラストーリーコロネの章４話をクリアした証"
+    },
+    {
+      "id": 1810001,
+      "name": "Despina's Memories",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Clear episode 4 of Despina's character sto"
+    },
+    {
+      "id": 1864001,
+      "name": "The result of constant training",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Clear 『Battle Ruins Where the Ancients Danced』 through exploration."
+    },
+    {
+      "id": 1865001,
+      "name": "One who runs through the great forest",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Clear 『The Deep Forest』 through exploration."
+    },
+    {
+      "id": 1866001,
+      "name": "Research from three meals",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Clear 『The mountaintop where wisdom is perfected』 in exploration."
+    },
+    {
+      "id": 1867001,
+      "name": "Prayer that reaches everywhere",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Clear 『Blessed Plaza』 through exploration."
+    },
+    {
+      "id": 1868001,
+      "name": "Heavy user of magic steel",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Clear 『The Vein that Saves the Warrior』 through exploration."
+    },
+    {
+      "id": 1869001,
+      "name": "Curse, dance, and mischief",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Clear 『Magical Swirling Dusk』 in exploration"
+    },
+    {
+      "id": 1870001,
+      "name": "User of the Seven Colored Trap",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Clear 『The End of the Trapped』 in exploration."
+    },
+    {
+      "id": 1873001,
+      "name": "Archaion's No.1 Choir",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Clear 『A place of prayer where chants echo』 during exploration."
+    },
+    {
+      "id": 1900001,
+      "name": "Elite Force",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Log in for３Days"
+    },
+    {
+      "id": 1900002,
+      "name": "Endless Journey",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Log in for７Days"
+    },
+    {
+      "id": 1900003,
+      "name": "One who has reached the realm",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Log in for 30 Days"
+    },
+    {
+      "id": 1900004,
+      "name": "Arcade Resident",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Log in for 100 Days"
+    },
+    {
+      "id": 1900005,
+      "name": "I love Chrono Regalia",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Log in for３６ 5 Days"
+    },
+    {
+      "id": 1902001,
+      "name": "Card Gatherer",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Collect 50 Cards"
+    },
+    {
+      "id": 1902002,
+      "name": "Card collector",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Collect９０Cards"
+    },
+    {
+      "id": 1902003,
+      "name": "Card Otaku",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Collect１２０Cards"
+    },
+    {
+      "id": 1902004,
+      "name": "Card Aristocrat",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Collect１ 50 Cards"
+    },
+    {
+      "id": 1902005,
+      "name": "Card King",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Collect１８０Cards"
+    },
+    {
+      "id": 1904001,
+      "name": "分解人",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "カードを１０枚分解した証"
+    },
+    {
+      "id": 1904002,
+      "name": "分解サイボーグ",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "カードを５０枚分解した証"
+    },
+    {
+      "id": 1904003,
+      "name": "分解マシーン",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "カードを１５０枚分解した証"
+    },
+    {
+      "id": 1904004,
+      "name": "分解工場",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "カードを３００枚分解した証"
+    },
+    {
+      "id": 1904005,
+      "name": "分解の果てに得た者",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "カードを５００枚分解した証"
+    },
+    {
+      "id": 1905001,
+      "name": "Fashion Beginner",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Obtain１customization Item"
+    },
+    {
+      "id": 1905002,
+      "name": "Awakening to fashion",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Obtain 10 customization Items"
+    },
+    {
+      "id": 1905003,
+      "name": "Fashion passion",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Obtain 30 customization Items"
+    },
+    {
+      "id": 1905004,
+      "name": "Fashion expert",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Obtain 50 customization Items"
+    },
+    {
+      "id": 1905005,
+      "name": "Fashion Artisan",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain７０customization Items"
+    },
+    {
+      "id": 1905006,
+      "name": "The castle is full of clothes and objects",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain 100 customization Item"
+    },
+    {
+      "id": 1905007,
+      "name": "Cutting edge of trends",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain１ 25 customization Item"
+    },
+    {
+      "id": 1905008,
+      "name": "Fashion leader",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain１ 50 customization Item"
+    },
+    {
+      "id": 1905009,
+      "name": "God of fashion and time",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain１７ 5 customization Item"
+    },
+    {
+      "id": 1905010,
+      "name": "Breathtakingly stylish",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain２００customization Item"
+    },
+    {
+      "id": 1905011,
+      "name": "There's no end to fashion",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "Obtain 250 customization Item"
+    },
+    {
+      "id": 1906001,
+      "name": "Chrorega.NET member",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "Register on Chrorega.NET"
+    },
+    {
+      "id": 1907001,
+      "name": "クロレガ.NET上流会員",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "クロレガ.NET上流会員の証"
+    },
+    {
+      "id": 2000001,
+      "name": "クロレガ公式",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "公式用"
+    },
+    {
+      "id": 2000002,
+      "name": "クロレガ開発",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "開発用"
+    },
+    {
+      "id": 2000003,
+      "name": "THE AGENTS",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "コード・オブ・ジョーカープレイヤーの証"
+    },
+    {
+      "id": 2000004,
+      "name": "AST所属エージェント",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "コード・オブ・ジョーカープレイヤーの証"
+    },
+    {
+      "id": 2000005,
+      "name": "ARCANAの加護",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "コード・オブ・ジョーカープレイヤーの証"
+    },
+    {
+      "id": 2000006,
+      "name": "世界の始まりを知る者",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "『クロノレガリア』プレ・ロケテスト参加者の証"
+    },
+    {
+      "id": 2000007,
+      "name": "桜色の季節",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "クロノレガリア開発者と対戦した証"
+    },
+    {
+      "id": 2000008,
+      "name": "連休連休連休！",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "クロノレガリア開発者と対戦した証"
+    },
+    {
+      "id": 2000009,
+      "name": "雨も滴るいいクロノス",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "クロノレガリア開発者と対戦した証"
+    },
+    {
+      "id": 2000010,
+      "name": "しばし待たれよ",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "バージョンアップ直前ミッションをクリアした証"
+    },
+    {
+      "id": 2000011,
+      "name": "ノンジャンルバトラー",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "アーケードゲーム好きの証"
+    },
+    {
+      "id": 2000012,
+      "name": "アーケードゲーマー",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "アーケードゲーム好きの証"
+    },
+    {
+      "id": 2000013,
+      "name": "異世界からの挑戦者",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "アーケードゲーム好きの証"
+    },
+    {
+      "id": 2000014,
+      "name": "全ての原点を知る者",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "『千閃戦記』プレ・ロケテスト参加者の証"
+    },
+    {
+      "id": 2000015,
+      "name": "フォロンの名付け親",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "フォロンの名付け親の証"
+    },
+    {
+      "id": 2000016,
+      "name": "ソウルの力を宿す者",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "SOUL REVERSEプレイヤーの証"
+    },
+    {
+      "id": 2000017,
+      "name": "神筆の使い手",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "Wonderland Warsプレイヤーの証"
+    },
+    {
+      "id": 2000018,
+      "name": "三国の英傑",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "三国志大戦プレイヤーの証"
+    },
+    {
+      "id": 2000019,
+      "name": "クロレガ攻略組",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "クロノレガリア攻略本購入者の証"
+    },
+    {
+      "id": 2000020,
+      "name": "ゲイボルグの担い手",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "『煌槍ゲイボルグ』をプレイした証"
+    },
+    {
+      "id": 2000021,
+      "name": "ふたりはコマンダー",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "『司令官、戦場に立つ』をプレイした証"
+    },
+    {
+      "id": 2000022,
+      "name": "古き森の守護者",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "『受け継がれし刃』をプレイした証"
+    },
+    {
+      "id": 2000023,
+      "name": "クロノレガリア公認ゲスト",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "クロノレガリア公認の証"
+    },
+    {
+      "id": 2000024,
+      "name": "クロノレガリア配信中",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "クロノレガリアの配信を行った証"
+    },
+    {
+      "id": 2000025,
+      "name": "クロノレガリア実況中",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "クロノレガリアの実況を行った証"
+    },
+    {
+      "id": 2000026,
+      "name": "夏の花火師",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "『神呼ぶ光華』をプレイした証"
+    },
+    {
+      "id": 2000027,
+      "name": "恐怖の絶叫",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "『恐怖の肝試し』をプレイした証"
+    },
+    {
+      "id": 2000028,
+      "name": "ムーンナイト",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "『月夜の決戦』をプレイした証"
+    },
+    {
+      "id": 2000029,
+      "name": "トリック・オア・トリート",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "『ハロウィンパーティー』をプレイした証"
+    },
+    {
+      "id": 2000030,
+      "name": "クロレガガチ勢",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "開発者対戦イベントに参加した証"
+    },
+    {
+      "id": 2000031,
+      "name": "プロレガ",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "開発者対戦イベントに参加した証"
+    },
+    {
+      "id": 2000032,
+      "name": "開発を超えしもの",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "開発者対戦イベントに参加した証"
+    },
+    {
+      "id": 2000033,
+      "name": "クロレガマイスター",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "開発者対戦イベントに参加した証"
+    },
+    {
+      "id": 2000034,
+      "name": "スーパープレイヤー",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "開発者対戦イベントに参加した証"
+    },
+    {
+      "id": 2000035,
+      "name": "アルケイオンの猛者",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "開発者対戦イベントに参加した証"
+    },
+    {
+      "id": 2000036,
+      "name": "勝利の栄冠",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "開発者対戦イベントに参加した証"
+    },
+    {
+      "id": 2000037,
+      "name": "クロレガファイター",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "開発者対戦イベントに参加した証"
+    },
+    {
+      "id": 2000038,
+      "name": "開発とイチャイチャ",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "開発者対戦イベントに参加した証"
+    },
+    {
+      "id": 2000039,
+      "name": "クロレガ決闘者",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "開発者対戦イベントに参加した証"
+    },
+    {
+      "id": 2000040,
+      "name": "ゲイボルグの再来",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "『煌槍ゲイボルグ』をプレイした証"
+    },
+    {
+      "id": 2000041,
+      "name": "煙突から参上",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "『雪降る聖夜』をプレイした証"
+    },
+    {
+      "id": 2000042,
+      "name": "ニューイヤーバトラー",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "『新年戦始め』をプレイした証"
+    },
+    {
+      "id": 2000043,
+      "name": "チョコレート貰いました？",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "『ドキドキバレンタイン』をプレイした証"
+    },
+    {
+      "id": 2000044,
+      "name": "三倍返しは基本",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "『三倍返しの日』をプレイした証"
+    },
+    {
+      "id": 3000001,
+      "name": "クロレガ開発からの刺客",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "開発用"
+    },
+    {
+      "id": 3000002,
+      "name": "クロレガ開発の接待要員",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "開発用"
+    },
+    {
+      "id": 3000003,
+      "name": "クロノレガリア練習中",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "クロノレガリアを練習中の証"
+    },
+    {
+      "id": 3000004,
+      "name": "クロノレガリア一人前",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "クロノレガリアに慣れてきた証"
+    },
+    {
+      "id": 3000005,
+      "name": "クロレガ宣伝大使（自称）",
+      "backGroundID": 1,
+      "materialID": 0,
+      "info": "クロノレガリア宣伝大使（自称）の証"
+    },
+    {
+      "id": 3000006,
+      "name": "クロレガ宣伝大使（仮）",
+      "backGroundID": 2,
+      "materialID": 0,
+      "info": "クロノレガリア宣伝大使（仮）の証"
+    },
+    {
+      "id": 3000007,
+      "name": "クロレガ宣伝大使",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "クロノレガリア宣伝大使の証"
+    },
+    {
+      "id": 3000008,
+      "name": "レーネの中の人",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "レーネを演じた証"
+    },
+    {
+      "id": 3000009,
+      "name": "アストレアの中の人",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "アストレアを演じた証"
+    },
+    {
+      "id": 3000010,
+      "name": "マイアの中の人",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "マイアを演じた証"
+    },
+    {
+      "id": 3000011,
+      "name": "ミーシャの中の人",
+      "backGroundID": 3,
+      "materialID": 0,
+      "info": "ミーシャを演じた証"
+    },
+    {
+      "id": 5000001,
+      "name": "槍術極伝",
+      "backGroundID": 101,
+      "materialID": 1,
+      "info": "『煌槍ゲイボルグ』１位の証"
+    },
+    {
+      "id": 5000002,
+      "name": "槍術皆伝",
+      "backGroundID": 101,
+      "materialID": 1,
+      "info": "『煌槍ゲイボルグ』２～１００位の証"
+    },
+    {
+      "id": 5000003,
+      "name": "最高司令官",
+      "backGroundID": 102,
+      "materialID": 1,
+      "info": "『司令官、戦場に立つ』１位の証"
+    },
+    {
+      "id": 5000004,
+      "name": "総司令官",
+      "backGroundID": 102,
+      "materialID": 1,
+      "info": "『司令官、戦場に立つ』２～１００位の証"
+    },
+    {
+      "id": 5000005,
+      "name": "最古にして最優の狩人",
+      "backGroundID": 103,
+      "materialID": 1,
+      "info": "『受け継がれし刃』１位の証"
+    },
+    {
+      "id": 5000006,
+      "name": "いにしえの狩人",
+      "backGroundID": 103,
+      "materialID": 1,
+      "info": "『受け継がれし刃』２～１００位の証"
+    },
+    {
+      "id": 5000007,
+      "name": "最恐最悪のおばけ",
+      "backGroundID": 104,
+      "materialID": 1,
+      "info": "『恐怖の肝試し』１位の証"
+    },
+    {
+      "id": 5000008,
+      "name": "絶叫おばけ",
+      "backGroundID": 104,
+      "materialID": 1,
+      "info": "『恐怖の肝試し』２～１００位の証"
+    },
+    {
+      "id": 5000009,
+      "name": "閃光の大輪花",
+      "backGroundID": 105,
+      "materialID": 1,
+      "info": "『神呼ぶ光華』１位の証"
+    },
+    {
+      "id": 5000010,
+      "name": "閃光の花",
+      "backGroundID": 105,
+      "materialID": 1,
+      "info": "『神呼ぶ光華』２～１００位の証"
+    },
+    {
+      "id": 5000011,
+      "name": "スーパームーン",
+      "backGroundID": 106,
+      "materialID": 1,
+      "info": "『月夜の決戦』１位の証"
+    },
+    {
+      "id": 5000012,
+      "name": "フルムーン",
+      "backGroundID": 106,
+      "materialID": 1,
+      "info": "『月夜の決戦』２～１００位の証"
+    },
+    {
+      "id": 5000013,
+      "name": "カボチャ王",
+      "backGroundID": 107,
+      "materialID": 1,
+      "info": "『ハロウィンパーティー』１位の証"
+    },
+    {
+      "id": 5000014,
+      "name": "カボチャ大臣",
+      "backGroundID": 107,
+      "materialID": 1,
+      "info": "『ハロウィンパーティー』２～１００位の証"
+    },
+    {
+      "id": 5000015,
+      "name": "聖夜のサンタ",
+      "backGroundID": 108,
+      "materialID": 1,
+      "info": "『雪降る聖夜』１位の証"
+    },
+    {
+      "id": 5000016,
+      "name": "聖夜のトナカイ",
+      "backGroundID": 108,
+      "materialID": 1,
+      "info": "『雪降る聖夜』２～１００位の証"
+    },
+    {
+      "id": 5000017,
+      "name": "超超超大吉！",
+      "backGroundID": 109,
+      "materialID": 1,
+      "info": "『新年戦始め』１位の証"
+    },
+    {
+      "id": 5000018,
+      "name": "大吉！",
+      "backGroundID": 109,
+      "materialID": 1,
+      "info": "『新年戦始め』２～１００位の証"
+    },
+    {
+      "id": 5000019,
+      "name": "モテキング",
+      "backGroundID": 110,
+      "materialID": 1,
+      "info": "『ドキドキバレンタイン』１位の証"
+    },
+    {
+      "id": 5000020,
+      "name": "モテプリンス",
+      "backGroundID": 110,
+      "materialID": 1,
+      "info": "『ドキドキバレンタイン』２～１００位の証"
+    },
+    {
+      "id": 5000021,
+      "name": "モテクイーン",
+      "backGroundID": 111,
+      "materialID": 1,
+      "info": "『三倍返しの日』１位の証"
+    },
+    {
+      "id": 5000022,
+      "name": "モテプリンセス",
+      "backGroundID": 111,
+      "materialID": 1,
+      "info": "『三倍返しの日』２～１００位の証"
+    }
+  ]
+}

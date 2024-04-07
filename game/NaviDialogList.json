@@ -1,0 +1,1316 @@
+{
+  "datalist": [
+    {
+      "id": 0,
+      "name": "None",
+      "message": "Invalid Dialog",
+      "posType": 4,
+      "timeoutTime": 0,
+      "sizeType": 0
+    },
+    {
+      "id": 1001,
+      "name": "Tutorial_00_01",
+      "message": "Lord Chronos, an enemy has appeared!\nI will now explain the battle!",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1002,
+      "name": "Tutorial_00_02",
+      "message": "First of all,\nI will explain the game rules.",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1003,
+      "name": "Tutorial_00_03",
+      "message": "This displays the remaining time.\nWhen this expires...",
+      "posType": 3,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1004,
+      "name": "Tutorial_00_04",
+      "message": "The player with the most HP remaining\nwill win.",
+      "posType": 3,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1005,
+      "name": "Tutorial_00_05",
+      "message": "Also,if either player's HP gets reduced to 0\nthe game will end.",
+      "posType": 3,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1101,
+      "name": "Tutorial_01_01",
+      "message": "In order to reduce the enemy's HP\nyou will need to deploy characters\ninto battle.",
+      "posType": 5,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1102,
+      "name": "Tutorial_01_02",
+      "message": "It will attack when it reaches the opponent's area.\nLet's deploy one now.",
+      "posType": 5,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1103,
+      "name": "Tutorial_01_03",
+      "message": "You successfully deployed it!\nCharacters have several parameters.",
+      "posType": 5,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1104,
+      "name": "Tutorial_01_04",
+      "message": "This is a character's HP.\nWhen this reaches 0\nthey will be unable to act for a while.",
+      "posType": 6,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1105,
+      "name": "Tutorial_01_05",
+      "message": "This is a character's attack power.\nThe higher the value, the more damage\nyou will inflict on your opponent.",
+      "posType": 6,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1106,
+      "name": "Tutorial_01_06",
+      "message": "This is a character's level.\nAs they take action, their level will increase.",
+      "posType": 6,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1107,
+      "name": "Tutorial_01_07",
+      "message": "This is the time until movement and battle.\nCharacters will act when the memory runs out.",
+      "posType": 6,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1201,
+      "name": "Tutorial_02_01",
+      "message": "The enemy has been deployed!\nLet's intercept with weapon cards!",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1202,
+      "name": "Tutorial_02_02",
+      "message": "To use cards you need to have enough MP.",
+      "posType": 5,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1203,
+      "name": "Tutorial_02_03",
+      "message": "You don't have enough MP...\nYour MP will regenerate over time.",
+      "posType": 5,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1204,
+      "name": "Tutorial_02_04",
+      "message": "You can also convert cards into MP.",
+      "posType": 5,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1205,
+      "name": "Tutorial_02_05",
+      "message": "For now, let's wait for your MP to increase.",
+      "posType": 8,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1206,
+      "name": "Tutorial_02_06",
+      "message": "Your MP has increased!\nDeploy a character in the same lane as the enemy\nto have them battle.",
+      "posType": 8,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1207,
+      "name": "Tutorial_02_07",
+      "message": "When a character wins a battle\nthey will trigger BREAK and advance 1 step.",
+      "posType": 5,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1208,
+      "name": "Tutorial_02_08",
+      "message": "When they lose a battle\nthey will become unable to act for a while.",
+      "posType": 5,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1209,
+      "name": "Tutorial_02_09",
+      "message": "When you are attacked the weapon card\nwill be destroyed by the counterattack and returned to you.",
+      "posType": 5,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1210,
+      "name": "Tutorial_02_10",
+      "message": "Also,characters will gradually recover their HP\nwhile they are not deployed.",
+      "posType": 5,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1301,
+      "name": "Tutorial_03_01",
+      "message": "Next,I will explain how to revive characters.",
+      "posType": 4,
+      "timeoutTime": 4,
+      "sizeType": 0
+    },
+    {
+      "id": 1302,
+      "name": "Tutorial_03_02",
+      "message": "When a character is defeated,they will become unable to deployed\nuntil the displayed counter has expired.",
+      "posType": 3,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1303,
+      "name": "Tutorial_03_03",
+      "message": "However,if you touch the revive icon\nyou can revive them by paying life.",
+      "posType": 5,
+      "timeoutTime": 6,
+      "sizeType": 0
+    },
+    {
+      "id": 1304,
+      "name": "Tutorial_03_04",
+      "message": "You successfully revived them!When you really want a character to return immediately\nthis is one way of doing so.",
+      "posType": 5,
+      "timeoutTime": 7,
+      "sizeType": 0
+    },
+    {
+      "id": 1401,
+      "name": "Tutorial_04_01",
+      "message": "Next,I will explain how to replenish your hand.",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1402,
+      "name": "Tutorial_04_02",
+      "message": "You can draw as many cards as you have card stock remaining.\nYour card stock will increase over time.",
+      "posType": 3,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1403,
+      "name": "Tutorial_04_03",
+      "message": "You can draw cards for each characters\nby pressing their respective draw button.",
+      "posType": 3,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1404,
+      "name": "Tutorial_04_04",
+      "message": "Let's try drawing cards now.",
+      "posType": 3,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1405,
+      "name": "Tutorial_04_05",
+      "message": "Carefully observe the battle and decide\nwhich character's card to draw!",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1501,
+      "name": "Tutorial_05_01",
+      "message": "Next,let's try using tool cards.",
+      "posType": 5,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1502,
+      "name": "Tutorial_05_02",
+      "message": "When you touch a tool card\na usage icon will appear on characters that are deployed.",
+      "posType": 5,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1503,
+      "name": "Tutorial_05_03",
+      "message": "Let's try strengthening your deployed allies.",
+      "posType": 5,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1504,
+      "name": "Tutorial_05_04",
+      "message": "Your allies have been strengthened!\nUse tool cards to turn the battle in your favor.",
+      "posType": 5,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1601,
+      "name": "Tutorial_06_01",
+      "message": "Unlike tool cards, magic cards require casting time\nbefore they can be activated.",
+      "posType": 5,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1602,
+      "name": "Tutorial_06_02",
+      "message": "Also,if you are defeated or enter battle with an enemy\nbevor the cast finished it will fail.",
+      "posType": 5,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1603,
+      "name": "Tutorial_06_03",
+      "message": "They are very powerful if you manage to cast them!",
+      "posType": 5,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1701,
+      "name": "Tutorial_07_01",
+      "message": "You have cards but not enough MP...",
+      "posType": 4,
+      "timeoutTime": 3,
+      "sizeType": 0
+    },
+    {
+      "id": 1702,
+      "name": "Tutorial_07_02",
+      "message": "At times like these\nyou can convert your cards into MP.\nLet's try it now!",
+      "posType": 8,
+      "timeoutTime": 3,
+      "sizeType": 0
+    },
+    {
+      "id": 1703,
+      "name": "Tutorial_07_03",
+      "message": "When you really need MP,\nconvert unnecessary cards to MP to overcome the crisis!",
+      "posType": 8,
+      "timeoutTime": 3,
+      "sizeType": 0
+    },
+    {
+      "id": 1801,
+      "name": "Tutorial_08_01",
+      "message": "Regalia is Chronos' special power\nthat can only be used once per battle.",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1802,
+      "name": "Tutorial_08_02",
+      "message": "It can be activated when the regalia gauge is filled.\nIt's very powerful so time it well!",
+      "posType": 6,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 1803,
+      "name": "Tutorial_08_03",
+      "message": "This concludes the basic tutorial!\nFinally,let's fight the enemy in a 2v2 battle!",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 5001,
+      "name": "Home_CPU3vs3_Start",
+      "message": "チュートリアル終了です。\n次は3対3バトルの\nCOM戦に挑戦してみましょう！",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 5101,
+      "name": "Home_CPU3vs3_End",
+      "message": "おめでとうございます！\n新たな機能が開放されました！",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 5102,
+      "name": "Home_CardGeneration_01",
+      "message": "さきほど手に入れた素材で\nカードを生成することができます。",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 5103,
+      "name": "Home_CardGeneration_02",
+      "message": "『カード生成』はショップの中に\nあります。",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 5104,
+      "name": "Home_CardGeneration_03",
+      "message": "素材が足りない時は、\n対戦で素材を集めましょう！",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 5105,
+      "name": "Home_PartyEdit_01",
+      "message": "編集からパーティ編成へ。\nキャラクターを選んで\n『カードセット』を\nタッチしてみましょう！",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 5106,
+      "name": "Home_PartyEdit_02",
+      "message": "カードセットを編集したときは\n忘れずに『保存』ボタンを\n押しましょう！",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 5107,
+      "name": "Home_PartyEdit_03",
+      "message": "私からの説明は以上ですが、\nプレイの流れを見てみましょう！",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 5108,
+      "name": "Home_Present",
+      "message": "最後に、最高レア『絶対神ゼウス』を\nプレゼントしました！\n編成からカードセットに組み込もう！",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 10001,
+      "name": "Tutorial_00_01",
+      "message": "Lord Chronos! It's terrible!\nAn enemy has appeared!",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10002,
+      "name": "Tutorial_00_02",
+      "message": "I will explain to you how to win the battle!",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10003,
+      "name": "Tutorial_00_03",
+      "message": "This is your <#ff0046>HP</color>.\nYou can check it with the HP bar and numbers.",
+      "posType": 11,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10004,
+      "name": "Tutorial_00_04",
+      "message": "This is the enemy's <#ff0046>HP</color>.\nby reducing it to <#ff0046>0</color>\n you will win.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10005,
+      "name": "Tutorial_00_05",
+      "message": "This is the remaining <#ff0046>time</color>.\nWhen it reaches 0、the person with the most <#ff0046>HP</color> left\nwill win.",
+      "posType": 9,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10006,
+      "name": "Tutorial_00_06",
+      "message": "To reduce the enemy's HP\nyou must give <#ff0046>orders</color> to your <#ff0046>allies</color>!",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10007,
+      "name": "Tutorial_00_07",
+      "message": "Give orders to allied units and aim for victory!",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10101,
+      "name": "Tutorial_01_01",
+      "message": "Use cards to give orders to your allies.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10102,
+      "name": "Tutorial_01_02",
+      "message": "First,let's try <#ff0046>touching</color> a <#ff0046>weapon card</color>.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10103,
+      "name": "Tutorial_01_03",
+      "message": "Weapon card information has been displayed.",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10104,
+      "name": "Tutorial_01_04",
+      "message": "This number shows the required <#ff0046>ＭＰ</color> to use this card.",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10105,
+      "name": "Tutorial_01_05",
+      "message": "This shows a weapon card's <#ff0046>attack power</color>.\nIt tells you how much damage you will inflict.",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10106,
+      "name": "Tutorial_01_06",
+      "message": "This icon shows the required <#ff0046>time to move</color>.\nI will explain about movement later.",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10107,
+      "name": "Tutorial_01_07",
+      "message": "You can check the information by touching the card like this.",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10108,
+      "name": "Tutorial_01_08",
+      "message": "Let's check the MP required to use the card.",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10109,
+      "name": "Tutorial_01_09",
+      "message": "This shows your <#ff0046>MP</color>.\nIt will increase over time.",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10110,
+      "name": "Tutorial_01_10",
+      "message": "It seems you don't have enough MP...\nLet's <#ff0046>wait</color> a bit.",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10111,
+      "name": "Tutorial_01_11",
+      "message": "MP has increased!\nYou can now use your card.",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10112,
+      "name": "Tutorial_01_12",
+      "message": "Once the weapon card becomes usable\nyou can deploy units.",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10113,
+      "name": "Tutorial_01_13",
+      "message": "Let's <#ff0046>touch</color> 『<#ff0046>deploy</color>』.",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10114,
+      "name": "Tutorial_01_14",
+      "message": "It worked!",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10115,
+      "name": "Tutorial_01_15",
+      "message": "Units have several parameters.",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10116,
+      "name": "Tutorial_01_16",
+      "message": "This is a units <#ff0046>HP</color>.\nWhen this reaches 0,they will become unable to act.",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10117,
+      "name": "Tutorial_01_17",
+      "message": "This is their <#ff0046>attack power</color>.\nThe higher the value, the more damage\nyou will inflict on your opponent.",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10118,
+      "name": "Tutorial_01_18",
+      "message": "This is their <#ff0046>level</color>.\nIt will increase as they take action.",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10119,
+      "name": "Tutorial_01_19",
+      "message": "The deployed unit will move forward.",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10120,
+      "name": "Tutorial_01_20",
+      "message": "Now、let's take a look at your <#ff0046>hand</color>.",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10121,
+      "name": "Tutorial_01_21",
+      "message": "The number of cards has increased.",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10122,
+      "name": "Tutorial_01_22",
+      "message": "Cards will be added to your hand as time passes.",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10123,
+      "name": "Tutorial_01_23",
+      "message": "You can have up to 3 cards per unit in your hand.",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10124,
+      "name": "Tutorial_01_24",
+      "message": "If your hand is full、\nyour <#ff0046>card stock</color> will increase.",
+      "posType": 5,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10125,
+      "name": "Tutorial_01_25",
+      "message": "If you have space in your hand\nyou will draw from your <#ff0046>card stock</color>.",
+      "posType": 5,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10126,
+      "name": "Tutorial_01_26",
+      "message": "An enemy has appeared!\nDon't rush. For now let's <#ff0046>observe</color> what happens.",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10127,
+      "name": "Tutorial_01_27",
+      "message": "The time required for units to move forward\ndiffers depending on the weapon card.\nLet's <#ff0046>touch</color> the <#ff0046>unit</color>.",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10128,
+      "name": "Tutorial_01_28",
+      "message": "For this weapon card\nwhen <#ff0046>3 counts</color> pass\nthe unit will move forward.",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10129,
+      "name": "Tutorial_01_29",
+      "message": "This is the time remaining until the unit moves.\nWhen the light disappears, it will move forward.",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10130,
+      "name": "Tutorial_01_30",
+      "message": "When you hit an enemy\nbattle will begin.",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10131,
+      "name": "Tutorial_01_31",
+      "message": "This is the time required to <#ff0046>attack</color>.\nWhen the light disappears they will attack.",
+      "posType": 6,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10132,
+      "name": "Tutorial_01_32",
+      "message": "The battle will continue until either party's HP reaches 0.",
+      "posType": 6,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10201,
+      "name": "Tutorial_02_01",
+      "message": "The HP is flashing <#ff0046>red</color>!\nAt this rate they will be defeated in the next battle!",
+      "posType": 6,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10202,
+      "name": "Tutorial_02_02",
+      "message": "To help your allies, <#ff0046>touch</color> a \n<#ff0046>tool card</color>!",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10203,
+      "name": "Tutorial_02_03",
+      "message": "This tool card can restore your allies' HP.",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10204,
+      "name": "Tutorial_02_04",
+      "message": "This number show the amount of <#ff0046>HP recovered</color>.",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10205,
+      "name": "Tutorial_02_05",
+      "message": "Like weapon cards, it consumes MP\nLet's <#ff0046>touch</color> 『<#ff0046>use</color>』!",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10206,
+      "name": "Tutorial_02_06",
+      "message": "You safely recovered HP!\nLet's <#ff0046>observe</color> the rest of the battle.",
+      "posType": 6,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10207,
+      "name": "Tutorial_02_07",
+      "message": "You did it!\nWhen you win a battle, you will trigger <#ff0046>BREAK</color> and move\nforward by <#ff0046>1 space</color>.",
+      "posType": 6,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10208,
+      "name": "Tutorial_02_08",
+      "message": "If you lose the battle, you will become <#ff0046>unable to act</color>\nuntil the count reaches 0.",
+      "posType": 5,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10209,
+      "name": "Tutorial_02_09",
+      "message": "Oh no! It's a new enemy!",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10301,
+      "name": "Tutorial_03_01",
+      "message": "If this continues, our allies will be in danger!\nLet's try <#ff0046>touching</color> a <#ff0046>magic card</color>!",
+      "posType": 8,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10302,
+      "name": "Tutorial_03_02",
+      "message": "This magic card can restore your allies' HP.",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10303,
+      "name": "Tutorial_03_03",
+      "message": "This number shows the <#ff0046>time required to activate</color>.\nUnlike tool cards, magic cards require <#ff0046>casting</color>\nbefore they can be activated.",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10304,
+      "name": "Tutorial_03_04",
+      "message": "Let's <#ff0046>touch</color> 『<#ff0046>cast</color>』!",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10305,
+      "name": "Tutorial_03_05",
+      "message": "This is the required cast time.\nWhen it reaches <#ff0046>0</color> it will be activated.",
+      "posType": 3,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10306,
+      "name": "Tutorial_03_06",
+      "message": "Lord Chronos!\nBefore the battle begins、\nactivate your <#ff0046>Regalia</color>!",
+      "posType": 3,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10401,
+      "name": "Tutorial_04_01",
+      "message": "Regalia is a <#ff0046>special power </color>\nthat can only be used <#ff0046>1 time</color> per battle.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10402,
+      "name": "Tutorial_04_02",
+      "message": "It can be activated when the <#ff0046>regalia gauge</color> reaches maximum.",
+      "posType": 7,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10403,
+      "name": "Tutorial_04_03",
+      "message": "Now is the time!\n<#ff0046>Touch</color> to <#ff0046>activate</color> it!",
+      "posType": 7,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10404,
+      "name": "Tutorial_04_04",
+      "message": "This Regalia can <#ff0046>stop enemy movement</color>\nfor <#ff0046>3 counts</color>!",
+      "posType": 7,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10405,
+      "name": "Tutorial_04_05",
+      "message": "You did it!\nYou arrived at the castle!",
+      "posType": 4,
+      "timeoutTime": 1,
+      "sizeType": 0
+    },
+    {
+      "id": 10406,
+      "name": "Tutorial_04_06",
+      "message": "Cause damage to the enemy!",
+      "posType": 4,
+      "timeoutTime": 1,
+      "sizeType": 0
+    },
+    {
+      "id": 10407,
+      "name": "Tutorial_04_07",
+      "message": "When you attack the enemy,the attacking ally's weapon will be destroyed\nand they will be sent back.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10408,
+      "name": "Tutorial_04_08",
+      "message": "This is...!\nWhen the remaining time gets low\n<#ff0046>CLIMAX</color> will begin!",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10409,
+      "name": "Tutorial_04_09",
+      "message": "<#ff0046>The time required for MP and card increase will be shorter!</color>",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 10410,
+      "name": "Tutorial_04_10",
+      "message": "<#ff0046>This concludes the basic explanation.</color>\nUse <#ff0046>weapon cards</color> to <#ff0046>deploy</color> and deal the final blow!",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20001,
+      "name": "Tutorial_10_01",
+      "message": "Lord Chronos.\nBefore the battle begins,\nchoose the <#ff0046>Regalia</color> you want to use.",
+      "posType": 2,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20002,
+      "name": "Tutorial_10_02",
+      "message": "The <#ff0046>Regalia</color> has various effects.\nWe, the fairies of time, will help you!",
+      "posType": 2,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20003,
+      "name": "Tutorial_10_03",
+      "message": "Please touch and check!",
+      "posType": 2,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20101,
+      "name": "Tutorial_11_01",
+      "message": "Next, let's review <#ff0046>card types</color>.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20102,
+      "name": "Tutorial_11_02",
+      "message": "Weapon cards can be used to 『<#ff0046>deploy</color>』 and <#ff0046>attack</color> the enemy.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20103,
+      "name": "Tutorial_11_03",
+      "message": "The <#ff0046>square icon</color>, <#ff0046>sword</color> and\nattack power values will be your guide.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20104,
+      "name": "Tutorial_11_04",
+      "message": "Tool cards can be 『<#ff0046>used</color>』 on units that are deployed.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20105,
+      "name": "Tutorial_11_05",
+      "message": "The <#ff0046>hexagonal icon</color> and <#ff0046>small bottle</color> will be your guide.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20106,
+      "name": "Tutorial_11_06",
+      "message": "Magic cards require <#ff0046>casting</color>before they can be 『<#ff0046>activated</color>』.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20107,
+      "name": "Tutorial_11_07",
+      "message": "The <#ff0046>round icon</color> and <#ff0046>spellbook</color> will be your guide.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20201,
+      "name": "Tutorial_12_01",
+      "message": "We have gained a new ally!\nlet's take a look again.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20202,
+      "name": "Tutorial_12_02",
+      "message": "Each unit has <#ff0046>characteristics</color>.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20203,
+      "name": "Tutorial_12_03",
+      "message": "Alec is good at fighting with <#ff0046>weapon cards</color>\nthat have high <#ff0046>attack power</color>.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20204,
+      "name": "Tutorial_12_04",
+      "message": "Lotta-chan is good at using <#ff0046>tool cards</color> and <#ff0046>magic cards</color> to <#ff0046>heal</color> allies.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20205,
+      "name": "Tutorial_12_05",
+      "message": "Luka-chan is good at acting <#ff0046>quickly</color> with little <#ff0046>MP</color>.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20206,
+      "name": "Tutorial_12_06",
+      "message": "Let's fight by taking advantage of each character's characteristics.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20301,
+      "name": "Tutorial_13_01",
+      "message": "There is another card that hasn't been explained yet!",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20302,
+      "name": "Tutorial_13_02",
+      "message": "I will explain about <#ff0046>Special weapon cards</color>:\n<#ff0046>Sacred treasures</color>.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20303,
+      "name": "Tutorial_13_03",
+      "message": "It seems you don't have a Sacred Treasure...\nPlease leave this to me!\nThere!",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20304,
+      "name": "Tutorial_13_04",
+      "message": "<#ff0046>Touch</color> the <#ff0046>Sacred Treasure</color> in Alec's hand.",
+      "posType": 4,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20305,
+      "name": "Tutorial_13_05",
+      "message": "<#ff0046>Sacred Treasures</color> are powerful weapon cards.\nIn addition to using MP, you also need to raise the Unit's <#ff0046>level</color>.",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20306,
+      "name": "Tutorial_13_06",
+      "message": "This number shows the required <#ff0046>level</color>.\nIf you do not meet this requirement you will not be able to deploy.",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20307,
+      "name": "Tutorial_13_07",
+      "message": "It seems that Alec's level is not high enough...",
+      "posType": 11,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20308,
+      "name": "Tutorial_13_08",
+      "message": "You can raise your level by using <#ff0046>cards</color> or <#ff0046>fighting</color> but……\nThere!",
+      "posType": 11,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20309,
+      "name": "Tutorial_13_09",
+      "message": "This time we specially raised the level!",
+      "posType": 11,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20310,
+      "name": "Tutorial_13_10",
+      "message": "However, it seems that with my power alone you still don't have enough MP.",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20311,
+      "name": "Tutorial_13_11",
+      "message": "Use your own power to make up for the missing <#ff0046>MP</color> Lord Chronos!",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20312,
+      "name": "Tutorial_13_12",
+      "message": "You can convert unwanted cards into 1 MP.\n<#ff0046>Touch</color> <#ff0046>MP conversion</color>!",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20313,
+      "name": "Tutorial_13_13",
+      "message": "MP has increased!\n<#ff0046>Touch</color> to <#ff0046>Deploy</color> the Sacred Treasure!",
+      "posType": 10,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20314,
+      "name": "Tutorial_13_14",
+      "message": "When this Sacred Treasure is deployed\nit gives <#ff0046>【Exaltation III】</color> to all allies!",
+      "posType": 5,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20315,
+      "name": "Tutorial_13_15",
+      "message": "Exaltation has the effect of inreasing <#ff0046>attack power</color> in each battle!",
+      "posType": 5,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20316,
+      "name": "Tutorial_13_16",
+      "message": "<#ff0046>Sacred Treasures</color> have many restrictions but in exchange\nthey can be the difference between victory of defeat!",
+      "posType": 5,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 20317,
+      "name": "Tutorial_13_17",
+      "message": "Lord Chronos!\nContinue giving <#ff0046>orders</color> to your allies. Let's fight freely!",
+      "posType": 5,
+      "timeoutTime": 10,
+      "sizeType": 0
+    },
+    {
+      "id": 30001,
+      "name": "Tutorial_Home_01",
+      "message": "Thank you for your hard work, Lord Chronos!",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 30002,
+      "name": "Tutorial_Home_02",
+      "message": "Next, let's challenge the COM battle with 3 allies!",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 30101,
+      "name": "Tutorial_Home_11",
+      "message": "Thank you for your hard work on the tutorial!",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 30102,
+      "name": "Tutorial_Home_12",
+      "message": "Since you have cleared the tutorial,\nMisha will join your team!\nLet me introduce you!",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 30103,
+      "name": "Tutorial_Home_13",
+      "message": "Furthermore, I have something special for you!",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 30201,
+      "name": "Tutorial_Home_21",
+      "message": "You did it! Here's a special summoning ticket for you!",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 30202,
+      "name": "Tutorial_Home_22",
+      "message": "Collect stamps and get <#ff0046>rewards</color>!",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 30203,
+      "name": "Tutorial_Home_23",
+      "message": "Let's use the summoning ticket to <#ff0046>summon cards</color>!",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 30204,
+      "name": "Tutorial_Home_24",
+      "message": "You can swap in your new cards by touching <#ff0046>edit deck</color>.",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 30205,
+      "name": "Tutorial_Home_25",
+      "message": "New cards can be obtained by <#ff0046>playing</color> or by <#ff0046>summoning</color> them.",
+      "posType": 0,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 30206,
+      "name": "Tutorial_Home_26",
+      "message": "That's all for my explanation.",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 30207,
+      "name": "Tutorial_Home_27",
+      "message": "While you are still getting used to everything,\nlet's try playing the <#ff0046>story</color>!",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    },
+    {
+      "id": 30208,
+      "name": "Tutorial_Home_28",
+      "message": "Let's do our best together with our allies in the next battle!",
+      "posType": 4,
+      "timeoutTime": 5,
+      "sizeType": 0
+    }
+  ]
+}

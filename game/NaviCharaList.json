@@ -1,0 +1,40 @@
+{
+  "NaviCharaList": [
+    {
+      "id": 1,
+      "name": "Foron",
+      "viewPriority": 0,
+      "defalutCostumeID": 100,
+      "description": "A serious and energetic fairy.\nIt seems there's a big\nsecret behind the\nwatch she treasures.",
+      "startDate": 1545264000000,
+      "newEndDate": 1547564400000
+    },
+    {
+      "id": 2,
+      "name": "Rene",
+      "viewPriority": 1,
+      "defalutCostumeID": 200,
+      "description": "History-loving time fairy.\nDon't disturb her while reading\nor she'll get very scary.",
+      "startDate": 1545264000000,
+      "newEndDate": 1565881200000
+    },
+    {
+      "id": 3,
+      "name": "Astrea",
+      "viewPriority": 2,
+      "defalutCostumeID": 300,
+      "description": "A battle-loving time fairy.\nShe never misses training\nunless there's an emergency.",
+      "startDate": 1545264000000,
+      "newEndDate": 1565881200000
+    },
+    {
+      "id": 4,
+      "name": "Maya",
+      "viewPriority": 3,
+      "defalutCostumeID": 400,
+      "description": "Carefree fairy of Time.\nHer mysterious bag seems\nto be full of treasures.",
+      "startDate": 1545264000000,
+      "newEndDate": 1565881200000
+    }
+  ]
+}
